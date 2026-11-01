@@ -1,5 +1,3 @@
-# Klinker Operasyon Atlası
+# Batıçim Batısöke Çimento Üretim Atlası
 
-Hazırlayan: **S. Emre ARSLAN**
-
-Bu sitenin sayfaları şifrelidir (AES-256, StatiCrypt). İçerik yalnızca şifreyi bilenler tarafından tarayıcıda açılabilir. Erişim için hazırlayan kişiden şifre isteyin.
+Bu sitenin sayfaları şifrelidir (AES-256). İçerik yalnızca şifreyi bilenler tarafından tarayıcıda açılabilir. Erişim için yetkili kişiden şifre isteyin.
